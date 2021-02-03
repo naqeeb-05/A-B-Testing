@@ -2,7 +2,7 @@
 
 ## Project Descrption:
 
-In this project an A/B testing is carried of a landing page for e-commerce website. On one hand there was a control group in which the website visitors were shown the old landing page and on the other hand the treatment group were shown the new page. Finally for each user group the conversion was recorded (that is when a user decides to pay for the company's product). The null and alternative hypothesis had to be setup and carry out A/B test after this regression approach was used to obtain and compare the results.
+In this project an A/B testing of a landing page is carried for e-commerce website. On one hand there was a control group in which the website visitors were shown the old landing page and on the other hand the treatment group were shown the new page. Finally for each user group the conversion was recorded (that is when a user decides to pay for the company's product). The null and alternative hypothesis had to be setup and carry out A/B test after this regression approach was used to obtain and compare the results.
 
 ## Key Insights
 
